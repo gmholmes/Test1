@@ -20,7 +20,7 @@ namespace Test1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Ouch!";
+            label1.Text = "Ouch, that hurt!";
         }
     }
 }
